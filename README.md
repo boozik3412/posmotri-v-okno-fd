@@ -1,1 +1,1 @@
-2 Спринт проект "Посмотри в окно"
+https://github.com/boozik3412/posmotri-v-okno-fd
